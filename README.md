@@ -2,7 +2,10 @@ IntersectInvASN
 ===============
 
 Self Intersection Invariant Methods for Self-Healing Surface and Solid Topologies
-- Simplest Methods
-- 1.A
-- 2.B
-- 
+- Simplification Methods
+ * 1.Simplification of outer bounds 
+ * 2.Seam 'Melt' and Fuse Total Volume Approx
+
+
+
+
