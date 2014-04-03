@@ -13,6 +13,7 @@ doi={10.1109/SMI.2010.25},}
 [2] Q.-Y. Zhou, T. Ju, and S.-M. Hu, “Topology repair of solid
 models using skeletons,” IEEE Trans. Vis. & Comp. Graphics,
 vol. 13, no. 4, pp. 675–685, 2007.
+
 [3] T. Ju, Q.-Y. Zhou, and S.-M. Hu, “Editing the topology of 3D
 models by sketching,” ACM Trans. on Graph, vol. 26, no. 3,
 p. 42, 2007.
