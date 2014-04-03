@@ -10,9 +10,9 @@ abstract={We present an algorithm for curve skeleton extraction via Laplacian-ba
 keywords={feature extraction;image reconstruction;mesh generation;solid modelling;surface reconstruction;Laplacian based contraction;automatic surface reconstruction schemes;curve skeleton extraction;effective surface topology modification;explicit surface reconstruction;generalized discrete geometry data;local Delaunay triangulation;point cloud skeletons;skeleton-based manipulation;skeleton-driven topology repair;topological thinning;Clouds;Clustering algorithms;Computer vision;Feature extraction;Gaussian processes;Laplace equations;Production;Shape;Skeleton;Surface reconstruction;contraction;curve skeleton;laplacian;point cloud;surface reconstruction;topology repair},
 doi={10.1109/SMI.2010.25},}
 
-[28] Q.-Y. Zhou, T. Ju, and S.-M. Hu, “Topology repair of solid
+[2] Q.-Y. Zhou, T. Ju, and S.-M. Hu, “Topology repair of solid
 models using skeletons,” IEEE Trans. Vis. & Comp. Graphics,
 vol. 13, no. 4, pp. 675–685, 2007.
-[29] T. Ju, Q.-Y. Zhou, and S.-M. Hu, “Editing the topology of 3D
+[3] T. Ju, Q.-Y. Zhou, and S.-M. Hu, “Editing the topology of 3D
 models by sketching,” ACM Trans. on Graph, vol. 26, no. 3,
 p. 42, 2007.
