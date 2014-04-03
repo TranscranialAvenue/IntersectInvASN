@@ -17,3 +17,4 @@ vol. 13, no. 4, pp. 675–685, 2007.
 [3] T. Ju, Q.-Y. Zhou, and S.-M. Hu, “Editing the topology of 3D
 models by sketching,” ACM Trans. on Graph, vol. 26, no. 3,
 p. 42, 2007.
+
