@@ -18,6 +18,11 @@ vol. 13, no. 4, pp. 675–685, 2007.
 models by sketching,” ACM Trans. on Graph, vol. 26, no. 3,
 p. 42, 2007.
 
+[4] G. Xu, B. Mourrain, R. Duvigneau, A. Galligo. Constructing
+analysis-suitable parameterization of computational
+domain from CAD boundary by variational harmonic
+method. Journal of Computational Physics , 2013,
+252, 275-289
 
 Xu, Gang, et al. "Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method." Journal of Computational Physics 252 (2013): 275-289.
 
@@ -25,17 +30,4 @@ Xu, G., Mourrain, B., Duvigneau, R., & Galligo, A. (2013). Constructing analysis
 
 Xu, Gang, Bernard Mourrain, Régis Duvigneau, and André Galligo. "Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method." Journal of Computational Physics 252 (2013): 275-289.
 
-TY  - JOUR
-T1  - Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method
-A1  - Xu, Gang
-A1  - Mourrain, Bernard
-A1  - Duvigneau, Régis
-A1  - Galligo, André
-JO  - Journal of Computational Physics
-VL  - 252
-SP  - 275
-EP  - 289
-SN  - 0021-9991
-Y1  - 2013
-PB  - Elsevier
-ER  - 
+
