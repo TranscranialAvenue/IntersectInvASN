@@ -18,9 +18,7 @@ vol. 13, no. 4, pp. 675–685, 2007.
 models by sketching,” ACM Trans. on Graph, vol. 26, no. 3,
 p. 42, 2007.
 
-Cite
 
-Copy and paste a formatted citation or use one of the links to import into a bibliography manager.
 Xu, Gang, et al. "Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method." Journal of Computational Physics 252 (2013): 275-289.
 
 Xu, G., Mourrain, B., Duvigneau, R., & Galligo, A. (2013). Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method. Journal of Computational Physics, 252, 275-289.
